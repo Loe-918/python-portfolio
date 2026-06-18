@@ -71,9 +71,9 @@ python excel_processor.py
 
 ## 📬 联系我
 
-- 💼 **Fiverr**: [我的 Fiverr 主页] ← 接单后替换链接
-- 🐙 **GitHub**: [我的 GitHub] ← 上传后替换链接
-- 📧 **Email**: [your-email@example.com]
+- 💼 **Fiverr**: [我的 Fiverr 主页] ← 注册 Fiverr 后替换
+- 🐙 **GitHub**: [github.com/Loe-918/python-portfolio](https://github.com/Loe-918/python-portfolio)
+- 📧 **Email**: cc2065.cr@outlook.com
 
 ---
 
